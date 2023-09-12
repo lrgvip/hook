@@ -1,0 +1,27 @@
+{
+    "name": "lrgvip/hook",
+    "description": "the new qiqi framework",
+    "version": "1.0.0",
+
+     "keywords": [
+        "framework",
+        "qiqi",
+        "misswho"
+    ],
+    "homepage": "https://www.bmwgo.cn/",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lrgvip\\Hook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lrgvip",
+            "email": "393982965@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2.0"
+    }
+}
