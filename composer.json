@@ -1,11 +1,12 @@
 {
     "name": "lrgvip/hook",
-    "description": "the new qiqi framework",
+    "description": "the new liuyan framework",
     "version": "1.0.0",
 
      "keywords": [
         "framework",
         "qiqi",
+        "liuyan",
         "misswho"
     ],
     "homepage": "https://www.bmwgo.cn/",
@@ -18,10 +19,10 @@
     "authors": [
         {
             "name": "lrgvip",
-            "email": "393982965@qq.com"
+            "email": "lrgvip@hotmail.com"
         }
     ],
     "require": {
-        "php": "^7.2.0"
+        "php": "^7.3.0"
     }
 }
